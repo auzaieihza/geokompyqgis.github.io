@@ -5,7 +5,7 @@ $(document).ready(function () {
     "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
   ).addTo(map);
 
-  const windSpeedUrl = "data/savii.tif";
+  const windSpeedUrl = "savii.tif";
   // const windSpeedUrl =
   //   "https://danwild.github.io/leaflet-geotiff-2/wind_speed.tif";
 
